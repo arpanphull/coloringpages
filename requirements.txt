@@ -1,0 +1,11 @@
+torch
+git+https://github.com/huggingface/diffusers.git
+huggingface-hub
+Pillow
+flask
+controlnet-aux
+numpy
+opencv-python
+runpod
+transformers
+requests
