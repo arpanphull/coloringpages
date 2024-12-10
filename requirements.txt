@@ -1,5 +1,5 @@
 torch
-git+https://github.com/huggingface/diffusers.git
+git+https://github.com/huggingface/diffusers
 huggingface-hub
 Pillow
 flask
